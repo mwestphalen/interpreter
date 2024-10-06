@@ -54,6 +54,4 @@ This project was developed as an extension of a class assignment, and while it i
 
 ## Contact
 Matheus K. Westphalen - mkwestphalen@gmail.com
-
-Project Link: [https://github.com/mwestphalen/interpreter](https://github.com/mwestphalen/interpreter)
   
