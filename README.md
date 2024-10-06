@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the "Challenge Project: Interpreter," a programming project that enhances a basic parser into a full-fledged interpreter capable of executing programs. The project is an advanced extension of a school assignment and utilizes a top-down predictive approach. It's designed to interpret and execute specific code segments while returning values for further use in the program.
+This repository contains the "Challenge Project: Interpreter," a programming project that enhances a basic parser into a full-fledged interpreter capable of executing programs. The project is an extension of a school assignment and utilizes a top-down predictive approach. It's designed to interpret and execute specific code segments while returning values for further use in the program.
 
 ## Features
 
